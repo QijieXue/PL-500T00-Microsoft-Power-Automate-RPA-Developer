@@ -100,14 +100,14 @@ process data and review the analytics.
 3.  Enter **Load Funding - Data** for Process name, select **Data**, and
     click **Create**.
 
-> <img src="./media/image2.png" style="width:5.35328in;height:3.57457in"
+> <img src="https://raw.githubusercontent.com/QijieXue/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L01/media/image2.png" style="width:5.35328in;height:3.57457in"
 > alt="Select data to create the process" />
 
 4.  Select **Excel workbook**.
 
 5.  Select **Upload file** and click **Browse**.
 
-> <img src="./media/image3.png" style="width:5.68658in;height:2.66042in"
+> <img src="https://raw.githubusercontent.com/QijieXue/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L01/media/image3.png" style="width:5.68658in;height:2.66042in"
 > alt="Select Upload file and click Browse." />
 
 6.  Select the **ExistingProcessData.xlsx** file located in the lab
